@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  PassingVal2Function
 //
-//  Created by Krishna Picart on 9/6/15.
-//  Copyright (c) 2015 Krishna Picart. All rights reserved.
+//  Created by Krishna 9/6/15.
+//  [learn,build,innovate:repeat]
 //
 
 #import <UIKit/UIKit.h>

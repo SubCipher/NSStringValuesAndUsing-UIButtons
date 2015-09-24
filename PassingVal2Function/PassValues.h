@@ -2,16 +2,16 @@
 //  PassValues.h
 //  PassingVal2Function
 //
-//  Created by Krishna on 9/6/15.
+//  Created by Krishna 9/6/15.
+//  [learn,build,innovate:repeat]
 //
-
 #import <UIKit/UIKit.h>
 
 @interface PassValues : UIViewController
 
-//first line) action to take when button is pressed
-//sec line  ) create string container
-//third line) create a label to display container
+//first line) declare action to take when button is pressed
+//sec line  ) declare property for string container
+//third line) declare property for label to that will display value given
 
 - (IBAction)buttonNumOneAction:(id)sender;
 @property NSString *valueNumberOne;
