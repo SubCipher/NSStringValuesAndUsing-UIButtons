@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E11544BF31D5DF1CE24F3EF88BF36647EA152F74",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E11544BF31D5DF1CE24F3EF88BF36647EA152F74" : 0,
+    "69F988993B2AC8DC7B584479CD03B5DAE6FBF093" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "260410CA-A63E-4724-BB27-FF538FE4F3A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E11544BF31D5DF1CE24F3EF88BF36647EA152F74" : "NSStringValuesAndUsing-UIButtons\/",
+    "69F988993B2AC8DC7B584479CD03B5DAE6FBF093" : "passingValuesObjectiveC"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PassingVal2Function",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PassingVal2Function.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:blueKrisNYC\/passingValuesObjectiveC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "69F988993B2AC8DC7B584479CD03B5DAE6FBF093"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:blueKrisNYC\/callingFunctionsAndPassingValues.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E11544BF31D5DF1CE24F3EF88BF36647EA152F74"
+    }
+  ]
+}
